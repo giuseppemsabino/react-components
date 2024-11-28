@@ -22,5 +22,12 @@ header{
 }
 
 .card .content{
-  height: 100px;
+ padding: 10px;
+}
+
+.card button{
+  background-color: orange;
+  padding: 8px;
+  border: none;
+  color: white;
 }
